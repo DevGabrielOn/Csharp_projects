@@ -1,0 +1,8 @@
+C:\Users\Gabriel\Documents\SharpDevelop Projects\PRojeto102023\PRojeto102023\bin\Debug\PRojeto102023.exe.config
+C:\Users\Gabriel\Documents\SharpDevelop Projects\PRojeto102023\PRojeto102023\bin\Debug\PRojeto102023.exe
+C:\Users\Gabriel\Documents\SharpDevelop Projects\PRojeto102023\PRojeto102023\bin\Debug\PRojeto102023.pdb
+C:\Users\Gabriel\Documents\SharpDevelop Projects\PRojeto102023\PRojeto102023\obj\Debug\PRojeto102023.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Documents\SharpDevelop Projects\PRojeto102023\PRojeto102023\obj\Debug\PRojeto102023.MainForm.resources
+C:\Users\Gabriel\Documents\SharpDevelop Projects\PRojeto102023\PRojeto102023\obj\Debug\PRojeto102023.csproj.GenerateResource.Cache
+C:\Users\Gabriel\Documents\SharpDevelop Projects\PRojeto102023\PRojeto102023\obj\Debug\PRojeto102023.exe
+C:\Users\Gabriel\Documents\SharpDevelop Projects\PRojeto102023\PRojeto102023\obj\Debug\PRojeto102023.pdb

@@ -1,0 +1,8 @@
+C:\Users\Gabriel\Documents\SharpDevelop Projects\estudoprova1\estudoprova1\obj\Debug\estudoprova1.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Documents\SharpDevelop Projects\estudoprova1\estudoprova1\obj\Debug\estudoprova1.MainForm.resources
+C:\Users\Gabriel\Documents\SharpDevelop Projects\estudoprova1\estudoprova1\obj\Debug\estudoprova1.csproj.GenerateResource.Cache
+C:\Users\Gabriel\Documents\SharpDevelop Projects\estudoprova1\estudoprova1\bin\Debug\estudoprova1.exe.config
+C:\Users\Gabriel\Documents\SharpDevelop Projects\estudoprova1\estudoprova1\bin\Debug\estudoprova1.exe
+C:\Users\Gabriel\Documents\SharpDevelop Projects\estudoprova1\estudoprova1\bin\Debug\estudoprova1.pdb
+C:\Users\Gabriel\Documents\SharpDevelop Projects\estudoprova1\estudoprova1\obj\Debug\estudoprova1.exe
+C:\Users\Gabriel\Documents\SharpDevelop Projects\estudoprova1\estudoprova1\obj\Debug\estudoprova1.pdb

@@ -1,0 +1,8 @@
+C:\Users\Gabriel\Documents\SharpDevelop Projects\testetudo\testetudo\bin\Debug\testetudo.exe.config
+C:\Users\Gabriel\Documents\SharpDevelop Projects\testetudo\testetudo\bin\Debug\testetudo.exe
+C:\Users\Gabriel\Documents\SharpDevelop Projects\testetudo\testetudo\bin\Debug\testetudo.pdb
+C:\Users\Gabriel\Documents\SharpDevelop Projects\testetudo\testetudo\obj\Debug\testetudo.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Documents\SharpDevelop Projects\testetudo\testetudo\obj\Debug\testetudo.MainForm.resources
+C:\Users\Gabriel\Documents\SharpDevelop Projects\testetudo\testetudo\obj\Debug\testetudo.csproj.GenerateResource.Cache
+C:\Users\Gabriel\Documents\SharpDevelop Projects\testetudo\testetudo\obj\Debug\testetudo.exe
+C:\Users\Gabriel\Documents\SharpDevelop Projects\testetudo\testetudo\obj\Debug\testetudo.pdb

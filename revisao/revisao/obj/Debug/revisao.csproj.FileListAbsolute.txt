@@ -1,0 +1,8 @@
+C:\Users\Gabriel\Documents\SharpDevelop Projects\revisao\revisao\bin\Debug\revisao.exe.config
+C:\Users\Gabriel\Documents\SharpDevelop Projects\revisao\revisao\bin\Debug\revisao.exe
+C:\Users\Gabriel\Documents\SharpDevelop Projects\revisao\revisao\bin\Debug\revisao.pdb
+C:\Users\Gabriel\Documents\SharpDevelop Projects\revisao\revisao\obj\Debug\revisao.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Documents\SharpDevelop Projects\revisao\revisao\obj\Debug\revisao.MainForm.resources
+C:\Users\Gabriel\Documents\SharpDevelop Projects\revisao\revisao\obj\Debug\revisao.csproj.GenerateResource.Cache
+C:\Users\Gabriel\Documents\SharpDevelop Projects\revisao\revisao\obj\Debug\revisao.exe
+C:\Users\Gabriel\Documents\SharpDevelop Projects\revisao\revisao\obj\Debug\revisao.pdb
